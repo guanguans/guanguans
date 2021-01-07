@@ -1,8 +1,8 @@
-### Hi there 👋
-
-[guanguans.cn](https://www.guanguans.cn)
+[https://www.guanguans.cn](https://www.guanguans.cn)
 
 [![guanguans's github stats](https://github-readme-stats.vercel.app/api?username=guanguans&hide=commits&show_icons=true&theme=default)](https://www.guanguans.cn)
+
+[![guanguans's github stats](https://metrics.lecoq.io/guanguans?template=classic&config.timezone=Asia%2FShanghai)](https://www.guanguans.cn)
 
 <!--
 **guanguans/guanguans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
