@@ -1,4 +1,4 @@
-[blog](https://www.guanguans.cn) • [learnku](https://learnku.com/blog/guanguans) • [segmentfault](https://segmentfault.com/u/guanguans/articles) • sponsors([alipay](https://github.com/guanguans/guanguans.github.io/blob/master/images/alipay.jpeg)、[wechat](https://github.com/guanguans/guanguans.github.io/blob/master/images/wechat.jpeg))
+[blog](https://www.guanguans.cn) • [learnku](https://learnku.com/blog/guanguans) • [segmentfault](https://segmentfault.com/u/guanguans/articles) • [sponsor me](https://www.guanguans.cn/sponsors)
 
 <a href="https://www.guanguans.cn" alt="guanguans's github stats">
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=guanguans&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
