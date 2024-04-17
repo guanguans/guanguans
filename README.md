@@ -1,7 +1,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=guanguans&label=Profile%20views&color=0e75b6&style=flat" alt="guanguans" /></p>
 
-[@blog](https://www.guanguans.cn) • [@learnku](https://learnku.com/blog/guanguans) • [@segmentfault](https://segmentfault.com/u/guanguans/articles) • [@nonprofit website](https://folkstory.github.io/lingqiu/#/) • [@sponsors](https://www.guanguans.cn/sponsors)
+[@blog](https://www.guanguans.cn) • [@learnku](https://learnku.com/blog/guanguans) • [@segmentfault](https://segmentfault.com/u/guanguans/articles) • [@nonprofit website](https://folkstory.github.io/lingqiu/#/) • [@daily favorites](https://github.com/guanguans/favorite-link) • [@sponsors](https://www.guanguans.cn/sponsors)
 
 <a href="https://www.guanguans.cn" alt="guanguans's github stats">
     <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=guanguans&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=en" />
